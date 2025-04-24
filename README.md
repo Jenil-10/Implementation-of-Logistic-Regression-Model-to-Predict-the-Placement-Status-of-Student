@@ -92,9 +92,9 @@ print("Predicted Placement Status:", placement_status)
 ## PREDICTIONS AND EVALUATE
 ![Screenshot 2025-04-16 220429](https://github.com/user-attachments/assets/a4be4cb6-098b-4472-863c-3c82e5bcf0c8)
 
-## Developed by: Hariharan M
+## Developed by: jenil pio j
 
-## Reg no: 24900770
+## Reg no: 212223220040
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
